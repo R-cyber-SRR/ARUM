@@ -1,0 +1,11 @@
+{
+    "width": 1200,
+    "height": 630,
+    "style": "modern",
+    "text": "My Banner",
+    "text_config": {
+        "font_size": 48,
+        "color": "#ffffff",
+        "position": "center"
+    }
+}
